@@ -1,6 +1,6 @@
 {
   "name": "primo-pacco",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My First Package",
   "main": "index.js",
   "scripts": {
